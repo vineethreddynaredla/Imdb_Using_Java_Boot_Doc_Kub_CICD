@@ -62,6 +62,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>Imdb_Using_Java_Boot_Doc_Kub_CICD</finalName>
 	</build>
 
 </project>
